@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("GenericDB")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Health Care Service Corporation")]
+[assembly: AssemblyCompany("Yan Zhang")]
 [assembly: AssemblyProduct("GenericDB")]
-[assembly: AssemblyCopyright("Copyright © Health Care Service Corporation 2018")]
+[assembly: AssemblyCopyright("Copyright © Yan Zhang")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
